@@ -41,6 +41,6 @@ This project demonstrates:
 ---
 # Contributors
 
-Ecclesia Morain — Data Engineering, System Design
-Shital Rewanwar — Machine Learning & Recommendation Modeling
+- **Ecclesia Morain** — Data Engineering, System Design  
+- **Shital Rewanwar** — Machine Learning & Recommendation Modeling
 
